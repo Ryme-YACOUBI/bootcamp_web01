@@ -1,0 +1,18 @@
+INFO: Server started
+error: connection failed
+INFO: User connected
+ERROR: database unavailable
+WARNING: low memory
+Error: file not found
+INFO: Backup started
+eRrOr: timeout
+INFO: Request received
+ERROR: permission denied
+INFO: User logged out
+error: network unavailable
+WARNING: disk almost full
+ERROR: service stopped
+Error: invalid password
+INFO: Server restarted
+error: configuration missing
+INFO: Cleanup completed
